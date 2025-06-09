@@ -63,3 +63,17 @@ footer {
   background-color: #222;
   color: white;
 }
+
+.contact-btn {
+  background-color: #ae8b00;
+  color: white;
+  padding: 12px 25px;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+.contact-btn:hover {
+  background-color: #8b6b00;
+}
